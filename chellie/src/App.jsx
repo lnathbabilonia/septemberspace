@@ -149,7 +149,7 @@ function App() {
           </p>
 
           <p>
-            Being wth you has given me so many many and many more moments I want to remember. If i could have the power to remember
+            Being with you has given me so many many and many more moments I want to remember. If i could have the power to remember
             every moments that we share together, I would take it. I experienced a lot of memories with you and you helped me in a 
             lot of ways. You teach me lot of things, especially cooking. <br></br><br></br>Cooking with my Chellie ko is one of the best time I always
             want to do. Cooking Chellie while I hug from the back. I really miss this moment my Chellie ko 🥹
